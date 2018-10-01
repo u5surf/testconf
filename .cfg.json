@@ -1,1 +1,1 @@
-{"templates":[],"instances":[],"singletons":[{"filePath":".gitignore","schema":{"filePath":""}}],"noGit":false}
+{"templates":[{"name":"config","filePath":"conf.yml","schema":{"filePath":""}}],"instances":[],"singletons":[{"filePath":".gitignore","schema":{"filePath":""}}],"noGit":false}
